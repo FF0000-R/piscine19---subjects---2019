@@ -187,7 +187,7 @@ Allowed functions : None
 
 	void ft_advanced_sort_string_tab(char **tab, int(*cmp)(char *, char *));
 
-~(!)~ Calling ft_advanced_sort_string_tab() with ft_strcmp as a second
+~(!) Calling ft_advanced_sort_string_tab() with ft_strcmp as a second
 argument will return the same result as ft_sort_string_tab().
 
 14
